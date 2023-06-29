@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "578926821802",
+    "project_id": "poketinder-76ae5",
+    "storage_bucket": "poketinder-76ae5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:578926821802:android:1688b45c261452aab62bd3",
+        "android_client_info": {
+          "package_name": "com.taipe.estefany.poketinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "578926821802-bcriujngn7arbrm8o59jda4enfrv4bpe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkRaCx3oUQUze_Kb21bUZOrfzLzU33h3o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "578926821802-bcriujngn7arbrm8o59jda4enfrv4bpe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
